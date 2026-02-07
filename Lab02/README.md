@@ -24,7 +24,7 @@ Using a dataset of 395 students from two Portuguese schools, the model will anal
 
 The core objective is to determine if these background factors, combined with earlier grades (`G1` and `G2`), can accurately forecast a student's final grade (`G3`). This analysis could help educators identify students at risk of failure early in the academic year.
 
-## 4. Key Attributes (Extracted Info)
+## 4. Key Attributes
 
 The dataset contains **33 attributes**. Some of the most significant features used for prediction include:
 
