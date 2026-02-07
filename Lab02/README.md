@@ -41,4 +41,4 @@ The dataset contains **33 attributes**. Some of the most significant features us
 
 The following diagram outlines the machine learning workflow for this project:
 
-![Methodology Diagram](Methodology Diagram.png)
+![Methodology Diagram](Methodology%20Diagram.png)

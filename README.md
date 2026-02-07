@@ -1,8 +1,11 @@
 # ARTI 308: Machine Learning Labs
 
 **Imam Abdulrahman Bin Faisal University**
+
 **College of Computer Science & Information Technology**
+
 **Course:** ARTI 308 - Machine Learning (2nd Semester 2025/2026)
+
 **Student:** Omar Alzare
 
 ---
